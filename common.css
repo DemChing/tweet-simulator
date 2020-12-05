@@ -1,0 +1,7 @@
+#container {
+    margin: auto;
+}
+
+#container>h3 {
+    margin: 20px 10px;
+}
